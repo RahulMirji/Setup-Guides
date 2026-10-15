@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Temporary build & environment artifacts
+python_modules/
+.chrome_temp/
+__pycache__/
+*.py[cod]
+*$py.class
